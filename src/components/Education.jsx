@@ -1,9 +1,15 @@
 const education = [
   {
-    degree: "BSc in Computer Science",
+    degree: "Bachelor's in Computer Science",
     school: "NSBM Green University",
-    year: "2022 — Present",
-    desc: "Year 3 undergraduate studying software engineering, algorithms and web development.",
+    year: "2023 — 2027",
+    desc: "Undergraduate studying software engineering, algorithms and web development.",
+  },
+  {
+    degree: "Secondary Education",
+    school: "Lyceum International School",
+    year: "2011 — 2023",
+    desc: "Completed advanced level studies.",
   },
 ];
 
